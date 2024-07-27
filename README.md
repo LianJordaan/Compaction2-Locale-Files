@@ -43,7 +43,7 @@ The locale files support the following languages. If you contributed to a transl
 - Georgian (`ka`)
 - German (`de`)
 - Greek (`el`)
-- Hungarian (`hu`)
+- Hungarian (`hu`) - [EsziL](https://github.com/EsziL)
 - Icelandic (`is`)
 - Igbo (`ig`)
 - Indonesian (`id`)
